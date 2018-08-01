@@ -9,7 +9,7 @@ Created in PyCharm
 
 -Python 3.x
 
--import iexfinance
+-import iexfinance (https://pypi.org/project/iexfinance/) & (https://iextrading.com/developer/docs/#unofficial-libraries-and-integrations)
 
 -import time
 
