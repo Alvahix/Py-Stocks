@@ -18,3 +18,7 @@ Created in PyCharm
 -internet connection
 
 -'symbols2.csv' file in same directory as stocks.py. This is a csv file with all stock symbols and corresponding names.
+
+V.1.30 will include:
+
+-GUI display for program written in either GTK3+ or Tkinter
